@@ -6,9 +6,9 @@ K8s Tooling
 k9s
 ------------
 
-`K9s Github Page<https://github.com/derailed/k9s>`_
+Here is the `K9s Github Page <https://github.com/derailed/k9s>`_
 
-`Download K9s Page<https://github.com/derailed/k9s/releases>`_
+`Download K9s Page <https://github.com/derailed/k9s/releases>`_
 
 Kubernetes CLI To Manage Your Clusters In Style!
 
@@ -23,7 +23,7 @@ Or for context specification
 
    $ ./k9s --context <MY-CONTEXT>
    
-   ytt
+ytt
 ------------
 
 
@@ -35,7 +35,7 @@ Template and patch as needed to easily make your configuration reusable and exte
 
    $ ./ytt
    
-      imgpkg
+imgpkg
 ------------
 
 `Manually Started Redis Cluster <https://medium.com/geekculture/redis-cluster-on-kubernetes-c9839f1c14b6>`_
@@ -46,7 +46,7 @@ This cluster uses statefulsets and a script to start but has lots of good K8s co
 
    $ ./start-redis.sh
    
-      imgpkg
+kapp
 ------------
 
 `Manually Started Redis Cluster <https://medium.com/geekculture/redis-cluster-on-kubernetes-c9839f1c14b6>`_
