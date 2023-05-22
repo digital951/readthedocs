@@ -18,7 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    examples
    tooling
