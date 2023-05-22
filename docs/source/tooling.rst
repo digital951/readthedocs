@@ -49,7 +49,7 @@ Package, distribute, and relocate your Kubernetes configuration and dependent OC
 kapp
 ------------
 
-`Manually Started Redis Cluster <https://carvel.dev/kapp/>`_
+`VMware curated kapp <https://carvel.dev/kapp/>`_
 
 Deploy and view groups of Kubernetes resources as "applications". Apply changes safely and predictably, watching resources as they converge. 
 
