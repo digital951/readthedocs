@@ -1,16 +1,18 @@
 Test File (What does this do?)
 =====
 
-.. _installation:
+.. _Good-Examples:
 
-Installation
+Good Examples
 ------------
 
-To use Lumache, first install it using pip:
+`Manually Started Redis Cluster <https://medium.com/geekculture/redis-cluster-on-kubernetes-c9839f1c14b6>`_
 
-.. code-block:: console
+This cluster uses statefulsets and a script to start but has lots of good K8s concepts. 
 
-   (.venv) $ pip install lumache
+.. code-block:: bash
+
+   $ ./start-redis.sh
 
 Creating recipes
 ----------------
