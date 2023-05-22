@@ -1,4 +1,4 @@
-K8s Exampeles
+K8s Examples
 =====
 
 .. _Examples:
