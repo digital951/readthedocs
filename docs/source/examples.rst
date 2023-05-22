@@ -1,9 +1,9 @@
-Good K8s Exampeles
+K8s Exampeles
 =====
 
-.. _Good-Examples:
+.. _Examples:
 
-Good Examples
+Redis
 ------------
 
 `Manually Started Redis Cluster <https://medium.com/geekculture/redis-cluster-on-kubernetes-c9839f1c14b6>`_
