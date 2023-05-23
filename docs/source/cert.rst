@@ -1,4 +1,4 @@
-cert
+Nginx Cert Example
 =====
 
 The following example shows how you could create an Nginx pod in Kubernetes that uses a secret to store an SSL certificate.
