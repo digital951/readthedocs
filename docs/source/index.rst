@@ -22,5 +22,5 @@ Contents
    tooling
    helm
    tkgm
-   so-ingress
+   soingress
    
