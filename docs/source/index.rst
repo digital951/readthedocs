@@ -23,4 +23,5 @@ Contents
    helm
    tkgm
    soingress
+   readynessauto
    
