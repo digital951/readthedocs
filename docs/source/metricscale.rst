@@ -1,3 +1,6 @@
+Custom Metric Scaling
+=====
+
 Autoscaling in Kubernetes based on a readiness probe isn't directly supported. However, you can achieve autoscaling using custom metrics, which can be related to your readiness probe. Here's an approach you can take:
 
 1. **Create a readiness probe in your application**

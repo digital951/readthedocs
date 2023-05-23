@@ -1,3 +1,6 @@
+cert
+=====
+
 The following example shows how you could create an Nginx pod in Kubernetes that uses a secret to store an SSL certificate.
 
 Firstly, let's assume that you've already created a Secret resource that contains your SSL certificate and key. The secret might be created as follows:
