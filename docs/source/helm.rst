@@ -1,9 +1,7 @@
-Deploying Helm charts in an air-gapped (offline) environment involves a few steps, including:
+Helm (Offline)
+=====
 
-1. **Packaging Helm Charts**
-2. **Transferring Charts and Images**
-3. **Setting up a local Helm repository and Docker registry**
-4. **Deploying the Helm chart**
+Deploying Helm charts in an air-gapped (offline) environment involves a few steps, including:
 
 Let's go over each step:
 
