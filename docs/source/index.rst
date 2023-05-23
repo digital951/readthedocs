@@ -21,5 +21,6 @@ Contents
    examples
    tooling
    helm
-   so-ingress
    tkgm
+   so-ingress
+   
