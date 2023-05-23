@@ -24,4 +24,7 @@ Contents
    tkgm
    soingress
    readynessauto
+   custommetric
+   metricscale
+   cert
    
