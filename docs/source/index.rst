@@ -22,9 +22,8 @@ Contents
    tooling
    helm
    tkgm
+   cert
    soingress
-   readynessauto
    custommetric
    metricscale
-   cert
-   
+   readynessauto
