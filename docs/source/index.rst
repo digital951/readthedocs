@@ -31,4 +31,4 @@ Contents
    storage
    psp
    netpolicy
-   wlkdmgmt
+   wkldmgmt

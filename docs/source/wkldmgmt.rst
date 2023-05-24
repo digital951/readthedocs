@@ -1,2 +1,2 @@
-Workload Cluster Managment
+Workload Cluster Management
 =====
