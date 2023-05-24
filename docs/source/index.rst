@@ -29,3 +29,6 @@ Contents
    readynessauto
    terminal
    storage
+   psp
+   netpolicy
+   wlkdmgmt
