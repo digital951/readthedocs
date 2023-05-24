@@ -28,3 +28,4 @@ Contents
    metricscale
    readynessauto
    terminal
+   storage
