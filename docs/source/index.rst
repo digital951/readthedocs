@@ -24,3 +24,4 @@ Contents
    psp
    netpolicy
    wkldmgmt
+   regcred
