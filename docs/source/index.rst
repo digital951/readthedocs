@@ -27,3 +27,4 @@ Contents
    custommetric
    metricscale
    readynessauto
+   terminal
