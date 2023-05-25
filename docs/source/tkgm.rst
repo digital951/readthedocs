@@ -36,3 +36,4 @@ TKGm
    * Run ``tanzu cluster create --config-file tkg-workload-cluster.yaml --tkr-version <tkr-version>`` to deploy the TKG Workload Cluster.
 
 For more detailed instructions, refer to the official `VMware Tanzu Kubernetes Grid documentation <https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html>`_.
+Or for better detail instructions, refer to `TKGm Service installer <https://docs.vmware.com/en/Service-Installer-for-VMware-Tanzu/2.2.0/service-installer/GUID-vSphere%20-%20Backed%20by%20VDS-TKGm-TKOonVsphereVDStkg.html>`_.
